@@ -1,0 +1,13 @@
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\bin\Debug\Procret.exe.config
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\bin\Debug\Procret.exe
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\bin\Debug\Procret.pdb
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\bin\Debug\Procret.xml
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.Form1.resources
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.Resources.resources
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.vbproj.GenerateResource.Cache
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.exe
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.xml
+c:\users\denandra\documents\visual studio 2015\Projects\Procret\Procret\obj\Debug\Procret.pdb
+C:\Users\Denandra\Documents\Visual Studio 2015\Projects\Procret\Procret\obj\Debug\Procret.vbprojResolveAssemblyReference.cache
+C:\Users\Denandra\Documents\Visual Studio 2015\Projects\Procret\Procret\bin\Debug\MaterialSkin.dll
+C:\Users\Denandra\Documents\Visual Studio 2015\Projects\Procret\Procret\obj\Debug\Procret.Awal.resources
